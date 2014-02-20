@@ -1,4 +1,4 @@
-if [[ "$USER" == "root" ]]; then
+if [[ "$USERNAME" == "root" ]]; then
   P='#';
 else
   P='$';
